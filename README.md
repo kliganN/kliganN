@@ -1,14 +1,13 @@
-<h2><img src="image-1.png" width="50">Hi, I'am Vladimir!</h2>
+<h2><img src="image-2.png" width="50">Hi, I'am Vladimir!</h2>
 <img align='right' src="image.png" width="230">
-<p><em>System Administrator at <a href="https://subnetwork.ru">SubNetwork</a><img src="image-2.png" width="30"></br>Also work at Falkon-efti</a><img src="image-3.png" width="30">
+<p><em>System Administrator at <a href="https://subnetwork.ru">SubNetwork</a><img src="image-1.png" width="30"></br>Also work at Falkon-efti</a><img src="image-3.png" width="30">
 </em></p>
 
-[![Youtube: ](https://img.shields.io/youtube/follow/onlyhehe2k10?style=social)](https://youtube.com/onlyhehe2k10)
-[![mailme: kligann](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]<a href="mailto:kligann@subnetwork.ru">
-[![GitHub kliganN](https://img.shields.io/github/followers/kliganN?label=follow&style=social)](https://github.com/kliganN)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/onlyhehe2k10)
+![GitHub followers](https://img.shields.io/github/followers/kliganN)
+[kligann\@subnetwork.ru](mailto:kligann@subnetwork.ru?subject=)
 
-
-### <img src="image-4.png" width="50"> A little more about me...
+### A little more about me... <img src="image-4.png" width="50">
 
 ```yaml
 name: kligann
