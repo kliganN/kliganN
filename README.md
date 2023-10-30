@@ -1,6 +1,6 @@
-<h2> Hi, I'am Vladimir!<img src="image-1.png" width="50"></h2>
-<img align='right' src="![Alt text](image.png)" width="230">
-<p><em>System Administrator at <a href="https://subnetwork.ru">SubNetwork</a><img src="![Alt text](image-2.png)" width="30"></br>Also work at Falkon-efti</a><img src="![Alt text](image-3.png)" width="30">
+<h2><img src="image-1.png" width="50">Hi, I'am Vladimir!</h2>
+<img align='right' src="image.png" width="230">
+<p><em>System Administrator at <a href="https://subnetwork.ru">SubNetwork</a><img src="image-2.png" width="30"></br>Also work at Falkon-efti</a><img src="image-3.png" width="30">
 </em></p>
 
 [![Youtube: ](https://img.shields.io/youtube/follow/onlyhehe2k10?style=social)](https://youtube.com/onlyhehe2k10)
@@ -8,7 +8,7 @@
 [![GitHub kliganN](https://img.shields.io/github/followers/kliganN?label=follow&style=social)](https://github.com/kliganN)
 
 
-### <img src="![Alt text](image-4.png)" width="50"> A little more about me...
+### <img src="image-4.png" width="50"> A little more about me...
 
 ```yaml
 name: kligann
