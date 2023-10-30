@@ -5,32 +5,36 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCigIISVpM5JGhAng4Q_v1hA)
 ![GitHub followers](https://img.shields.io/github/followers/kliganN)
-[kligann\@subnetwork.ru](mailto:kligann@subnetwork.ru?subject=)
+[kligann\@subnetwork.ru](mailto:kligann@subnetwork.ru?subject=):mailbox_with_mail:
 
 ### A little more about me... <img src="image-4.png" width="50">
 
 ```yaml
-name: kligann
-environment:
-  - Linux
-  - ProxMox
-  - Windows Server
-  code:
-    - Bash
-  tools:
-    - Docker
-    - Ansible
-    - Git
-  web:
-    - nginx
-  knowledge:
-    - Networks
-    - Clouds
-    - TCP/IP
-Clouds:
-  - AWS
-  - Yandex
+---
+- name: vladimir
+  hosts: localhost
+  gather_facts: false
 
+  vars:
+    environment:
+      - Linux
+      - ProxMox
+      - Windows Server
+    code:
+      - Bash
+    tools:
+      - Docker
+      - Ansible
+      - Git
+    web:
+      - nginx
+    knowledge:
+      - Networks
+      - Clouds
+      - TCP/IP
+    Clouds:
+      - AWS
+      - Yandex
 ```
 
 ---
