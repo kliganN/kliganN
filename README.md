@@ -1,36 +1,36 @@
-<h2> Hi, I'am Vladimir!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>System Administrator at <a href="https://subnetwork.ru">SubNetwork</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Also work at <a href="https://www.thoughtworks.com">Falkon-efti</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h2> Hi, I'am Vladimir!<img src="![Alt text](image-1.png)" width="50"></h2>
+<img align='right' src="![Alt text](image.png)" width="230">
+<p><em>System Administrator at <a href="https://subnetwork.ru">SubNetwork</a><img src="![Alt text](image-2.png)" width="30"></br>Also work at Falkon-efti</a><img src="![Alt text](image-3.png)" width="30">
 </em></p>
 
-[![Youtube: ](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Youtube: ](https://img.shields.io/youtube/follow/onlyhehe2k10?style=social)](https://youtube.com/onlyhehe2k10)
 [![mailme: kligann](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]<a href="mailto:kligann@subnetwork.ru">
-[![GitHub kliganN](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/kliganN)
+[![GitHub kliganN](https://img.shields.io/github/followers/kliganN?label=follow&style=social)](https://github.com/kliganN)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="![Alt text](image-4.png)" width="50"> A little more about me...
 
 ```yaml
-- name: kligann
+name: kligann
 environment:
-- Linux
-- ProxMox
-- Windows Server
-code:
-- Bash
-tools:
-- Docker
-- Ansible
-- Git
-web:
-- nginx
-knowledge:
-- Networks
-- Clouds
-- TCP/IP
+  - Linux
+  - ProxMox
+  - Windows Server
+  code:
+    - Bash
+  tools:
+    - Docker
+    - Ansible
+    - Git
+  web:
+    - nginx
+  knowledge:
+    - Networks
+    - Clouds
+    - TCP/IP
 Clouds:
-- AWS
-- Yandex
+  - AWS
+  - Yandex
 
 ```
 
