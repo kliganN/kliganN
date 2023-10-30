@@ -1,4 +1,4 @@
-<h2> Hi, I'am Vladimir!<img src="![Alt text](image-1.png)" width="50"></h2>
+<h2> Hi, I'am Vladimir!<img src="image-1.png" width="50"></h2>
 <img align='right' src="![Alt text](image.png)" width="230">
 <p><em>System Administrator at <a href="https://subnetwork.ru">SubNetwork</a><img src="![Alt text](image-2.png)" width="30"></br>Also work at Falkon-efti</a><img src="![Alt text](image-3.png)" width="30">
 </em></p>
