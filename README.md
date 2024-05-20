@@ -26,8 +26,6 @@
       - Docker
       - Ansible
       - Git
-    web:
-      - nginx
     knowledge:
       - Networks
       - Clouds
