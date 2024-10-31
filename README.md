@@ -1,6 +1,6 @@
-<h2><img src="image-2.png" width="50">Hi, I'am Vladimir!</h2>
+<h2><img src="image-2.png" width="50">Hello</h2>
 <img align='right' src="image.png" width="230">
-<p><em>System Administrator at <a href="https://subnetwork.ru">SubNetwork</a><img src="image-1.png" width="30"></br>Also work at Falkon-efti</a><img src="image-3.png" width="30">
+<p><em>Maintance Engineer at Sber
 </em></p>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCigIISVpM5JGhAng4Q_v1hA)
