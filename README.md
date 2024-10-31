@@ -1,6 +1,6 @@
 <h2><img src="image-2.png" width="50">Hello</h2>
 <img align='right' src="image.png" width="230">
-<p><em>Maintance Engineer at Sber
+<p><em>Maintance Engineer at SberDevices
 </em></p>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCigIISVpM5JGhAng4Q_v1hA)
